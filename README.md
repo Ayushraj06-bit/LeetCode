@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ayushraj06-bit/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ayushraj06-bit/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Ayushraj06-bit/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ayushraj06-bit/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ayushraj06-bit/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Ayushraj06-bit/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -33,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ayushraj06-bit/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Ayushraj06-bit/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 <!---LeetCode Topics End-->
