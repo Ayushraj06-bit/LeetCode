@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0396-rotate-function](https://github.com/Ayushraj06-bit/LeetCode/tree/master/0396-rotate-function) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ayushraj06-bit/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ayushraj06-bit/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Ayushraj06-bit/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0396-rotate-function](https://github.com/Ayushraj06-bit/LeetCode/tree/master/0396-rotate-function) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ayushraj06-bit/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Sorting
 |  |
@@ -38,5 +40,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0396-rotate-function](https://github.com/Ayushraj06-bit/LeetCode/tree/master/0396-rotate-function) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Ayushraj06-bit/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 <!---LeetCode Topics End-->
